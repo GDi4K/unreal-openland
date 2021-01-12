@@ -29,7 +29,7 @@ Watch the following video:
 * There's a material instance called `OpenLand_Theme_Default`
 * Use that landscape material for your Unreal Engine landscape
 
-Follow this Youtube playlist on How to create an Unreal Engine landscape with OpenLand.
+Follow [this Youtube playlist](https://www.youtube.com/playlist?list=PLsyGu3bA_w_C-63BvSRRrGc_TgQM5gjEi) on How to create an Unreal Engine landscape with OpenLand.
 
 ## Issues & Questions
 
@@ -44,7 +44,7 @@ Here are some links:
 
 We need your support. Here are some ways you can help us:
 
-* Back us on Patreon
+* Support us on [Patreon](https://www.patreon.com/gamedev4k)
 * Use OpenLand & make videos, tutorials, etc.
 * Customize it, create themes & share with the community
 * Help to answer questions on [GitHub](https://github.com/GameDev4K/unreal-open-land/issues) & inside [Discord](https://discord.gg/DK9cMn9eFV)
