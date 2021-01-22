@@ -7,7 +7,7 @@ Right now, it comes with an auto-material that you can customize & create themes
 
 Have a look at the intro video:
 
-[![Unreal Open Land](https://user-images.githubusercontent.com/50838/105509749-da0c9c80-5cf3-11eb-8b07-80f183addc9e.png)](https://www.youtube.com/watch?v=QJ6SIh2DGeU)
+[![Unreal Open Land](https://user-images.githubusercontent.com/50838/105540232-e278cd80-5d1b-11eb-9699-a61a2fb2235c.png)](https://www.youtube.com/watch?v=QJ6SIh2DGeU)
 
 ## Installation
 
