@@ -15,21 +15,16 @@ Have a look at the intro video:
 
 Here's how you can install Open Land into your UE4 Project:
 
-* Download this repository & extract it
-* Copy the `OpenLand` directory
-* Go to your unreal-engine app using the file-browser
-* Go to the `Content` directory
-* Paste the copied `OpenLand` directory
+* Close your existing Unreal Engine app.
+* Create a directory in your app root called `Plugins`.
+* Download [this](https://github.com/GameDev4K/unreal-open-land/archive/main.zip) GitHub repository.
+* Copy `OpenLandDevApp/Plugins/OpenLand` of the repository to above created `Plugins` directory.
+* Start your app
 
-## Getting Started Guide
+## Documentation
 
-Watch the following video:
-
-* Visit `OpenLand/Themes/Default`
-* There's a material instance called `OpenLand_Theme_Default`
-* Use that landscape material for your Unreal Engine landscape
-
-Follow [this Youtube playlist](https://www.youtube.com/playlist?list=PLsyGu3bA_w_C-63BvSRRrGc_TgQM5gjEi) on How to create an Unreal Engine landscape with OpenLand.
+* [Read the Official Guide](https://www.notion.so/OpenLand-Documentation-2268081d3b8e4a49a0d824a7ab0b7b44)
+* [Watch the OpenLand Course](https://www.youtube.com/playlist?list=PLsyGu3bA_w_C-63BvSRRrGc_TgQM5gjEi)
 
 ## Issues & Questions
 
