@@ -11,14 +11,13 @@ Have a look at the intro video:
 
 ## Installation
 
-<sup>[ This will be available via the Unreal Marketplace soon. ]</sup>
+**[Get it via the marketplace 🛍️](https://www.unrealengine.com/marketplace/en-US/product/openland-customizable-landscape-auto-material)**
 
-Here's how you can install Open Land into your UE4 Project:
+For non-commerical projects, you can also get it from here:
 
 * Close your existing Unreal Engine app.
-* Create a directory in your app root called `Plugins`.
 * Download [this](https://github.com/GameDev4K/unreal-open-land/archive/main.zip) GitHub repository.
-* Copy `OpenLandDevApp/Plugins/OpenLand` of the repository to above created `Plugins` directory.
+* Copy `OpenLand/Content/OpenLand` of the repository to you app's `Content` directory.
 * Start your app
 
 ## Documentation
