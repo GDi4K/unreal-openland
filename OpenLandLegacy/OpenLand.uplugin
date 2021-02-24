@@ -14,6 +14,6 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"EngineVersion": "4.26.0",
+	"EngineVersion": "4.24.0",
 	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/"
 }
