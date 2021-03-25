@@ -39,7 +39,6 @@ Here are some links:
 
 We need your support. Here are some ways you can help us:
 
-* Support us on [Patreon](https://www.patreon.com/gamedev4k)
 * Use OpenLand & make videos, tutorials, etc.
 * Help to answer questions on [GitHub](https://github.com/GameDev4K/unreal-open-land/issues) & inside [Discord](https://discord.gg/DK9cMn9eFV)
 
