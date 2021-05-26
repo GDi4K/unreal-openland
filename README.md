@@ -16,7 +16,7 @@ Have a look at the intro video:
 For non-commerical projects, you can also get it from here:
 
 * Close your existing Unreal Engine app.
-* Download [this](https://github.com/GameDev4K/unreal-openland/archive/refs/heads/multi-biome.zip) GitHub repository.
+* Download [this](https://github.com/GameDev4K/unreal-openland/archive/refs/heads/main.zip) GitHub repository.
 * Copy `OpenLand/Content/OpenLand` of the repository to you app's `Content` directory.
 * Start your app
 
