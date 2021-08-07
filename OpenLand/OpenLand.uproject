@@ -11,6 +11,10 @@
 		{
 			"Name": "SlateRemote",
 			"Enabled": true
+		},
+		{
+			"Name": "VirtualHeightfieldMesh",
+			"Enabled": true
 		}
 	]
 }
