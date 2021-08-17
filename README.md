@@ -31,8 +31,8 @@ Nothing is perfect & so does the Open Land. But we would like to fix issues, add
 
 Here are some links:
 
-* [Roadmap](https://github.com/orgs/GameDev4K/projects/1)
-* [GitHub Issues](https://github.com/GameDev4K/unreal-open-land/issues)
+* [Roadmap](https://github.com/orgs/GDi4K/projects/1)
+* [GitHub Issues](https://github.com/GDi4K/unreal-open-land/issues)
 * [GameDev4K Discord Server](https://discord.gg/DK9cMn9eFV)
 
 ## Support Us
