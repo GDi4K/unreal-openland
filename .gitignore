@@ -75,6 +75,8 @@ OpenLand*/DerivedDataCache/*
 
 OpenLand*/Content/KiteDemo
 OpenLand*/Content/StarterContent
+OpenLand*/Content/Megascans
+OpenLand*/Content/MSPresets
 *.zip
 
 MyProject
