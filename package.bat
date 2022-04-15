@@ -16,3 +16,13 @@ xcopy %1\Resources ToPackage\OpenLand\Resources /E/H
 md ToPackage\OpenLand\Content
 md ToPackage\OpenLand\Content\OpenLand
 xcopy %1\Content\OpenLand ToPackage\OpenLand\Content\OpenLand /E/H
+
+md ToPackage\OpenLand\Content\ThirdPerson
+xcopy %1\Content\ThirdPerson ToPackage\OpenLand\Content\ThirdPerson /E/H
+
+md ToPackage\OpenLand\Content\ThirdPersonBP
+xcopy %1\Content\ThirdPersonBP ToPackage\OpenLand\Content\ThirdPersonBP /E/H
+
+md ToPackage\OpenLand\Content\Mannequin
+xcopy %1\Content\Mannequin ToPackage\OpenLand\Content\Mannequin /E/H
+
