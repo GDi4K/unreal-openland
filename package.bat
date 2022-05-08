@@ -2,7 +2,7 @@ echo "Packaging %1 ..."
 
 rmdir /S /Q ToPackage
 
-@REM --- OpenLand ---
+@REM --- Copying for OpenLand UE4 ---
 md ToPackage
 md ToPackage\OpenLand
 
@@ -26,3 +26,8 @@ xcopy %1\Content\ThirdPersonBP ToPackage\OpenLand\Content\ThirdPersonBP /E/H
 md ToPackage\OpenLand\Content\Mannequin
 xcopy %1\Content\Mannequin ToPackage\OpenLand\Content\Mannequin /E/H
 
+@REM --- Copying for OpenLand UE5 ---
+md ToPackage\OpenLand_UE5
+xcopy ToPackage\OpenLand ToPackage\OpenLand_UE5 /E/H
+
+xcopy UE5_Overrides ToPackage\OpenLand_UE5\Content\OpenLand /E/H/Y
