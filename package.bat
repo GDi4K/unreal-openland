@@ -21,4 +21,4 @@ xcopy %1\Content\OpenLand ToPackage\OpenLand\Content\OpenLand /E/H
 md ToPackage\OpenLand_UE5
 xcopy ToPackage\OpenLand ToPackage\OpenLand_UE5 /E/H
 
-xcopy UE5_Overrides ToPackage\OpenLand_UE5\Content\OpenLand /E/H/Y
+xcopy UE5_Overrides ToPackage\OpenLand_UE5 /E/H/Y
