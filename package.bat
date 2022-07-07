@@ -22,3 +22,11 @@ md ToPackage\OpenLand_UE5
 xcopy ToPackage\OpenLand ToPackage\OpenLand_UE5 /E/H
 
 xcopy UE5_Overrides ToPackage\OpenLand_UE5 /E/H/Y
+
+@REM Identifying the version
+FOR /F "tokens=*" %%g IN ('git describe --tags') do (SET VERSION=%%g)
+
+@REM Making zip files
+cd ToPackage
+tar.exe -a -c -f OpenLand_UE5_%VERSION%.zip OpenLand_UE5
+tar.exe -a -c -f OpenLand_%VERSION%.zip OpenLand
